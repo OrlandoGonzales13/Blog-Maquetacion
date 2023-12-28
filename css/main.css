@@ -41,3 +41,7 @@ header{
     justify-self: end;
     margin-right: 50px;
 }
+
+.header-icons-container .icons span{
+    color: white;
+}
